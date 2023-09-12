@@ -28,7 +28,7 @@
   padding-top: 20px;
 }
 .borde1{
-  width: 500px;
+  width: 400px;
   background-color: sandybrown;
   display: inline-block;
   border-radius: 15px;
@@ -38,7 +38,7 @@
 }
 .foto-1{
   margin-top: 30px;
-  width: 400px;
+  width: 300px;
   border-radius: 15px;
   border-color: grey;
   border-style: solid;
@@ -49,7 +49,7 @@
   display: inline-block;
 }
 .text1{
-  width: 400px;
+  width: 300px;
   text-align: left;
 }
 
