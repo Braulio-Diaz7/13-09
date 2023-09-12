@@ -1,0 +1,149 @@
+.Te-amo{
+  border-color: blue;
+  background-color: blue;
+  height: 100px;
+}
+.text-amo{
+  text-align: center;
+  color: white;
+  padding-top: 0.4cm;
+}
+.boton-1{
+  color: white;
+  background-color: red;
+  height: 40px;
+  border-radius: 30px;
+  padding-left: 10px;
+  text-align: center;
+}
+.boton1{
+  text-align: center;
+}
+.video{
+  color: white;
+}
+
+.imagen-1{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde1{
+  width: 500px;
+  background-color: sandybrown;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-1{
+  margin-top: 30px;
+  width: 400px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto1{
+  text-align: center;
+  display: inline-block;
+}
+.text1{
+  width: 400px;
+  text-align: left;
+}
+
+
+.imagen-2{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde2{
+  width: 500px;
+  background-color: aquamarine;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-2{
+  margin-top: 30px;
+  width: 400px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto2{
+  text-align: center;
+  display: inline-block;
+}
+.text2{
+  width: 400px;
+  text-align: left;
+}
+
+
+
+.imagen-3{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde3{
+  width: 500px;
+  background-color:beige;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-3{
+  margin-top: 30px;
+  width: 400px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto3{
+  text-align: center;
+  display: inline-block;
+}
+.text3{
+  width: 400px;
+  text-align: left;
+}
+
+
+.imagen-4{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde4{
+  width: 500px;
+  background-color:blueviolet;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-4{
+  margin-top: 30px;
+  width: 400px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto4{
+  text-align: center;
+  display: inline-block;
+}
+.text4{
+  width: 400px;
+  text-align: left;
+}
+
