@@ -1,0 +1,278 @@
+.Te-amo{
+  border-color: blue;
+  background-color: blue;
+  height: 100px;
+}
+.text-amo{
+  text-align: center;
+  color: white;
+  padding-top: 0.4cm;
+}
+.boton-1{
+  color: white;
+  background-color: red;
+  height: 40px;
+  border-radius: 30px;
+  padding-left: 10px;
+  text-align: center;
+}
+.boton1{
+  text-align: center;
+}
+.video{
+  color: white;
+}
+
+.imagen-1{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde1{
+  width: 400px;
+  background-color: sandybrown;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-1{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto1{
+  text-align: center;
+  display: inline-block;
+}
+.text1{
+  width: 300px;
+  text-align: left;
+}
+
+
+.imagen-2{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde2{
+  width: 400px;
+  background-color: aquamarine;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-2{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto2{
+  text-align: center;
+  display: inline-block;
+}
+.text2{
+  width: 300px;
+  text-align: left;
+}
+
+
+
+.imagen-3{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde3{
+  width: 400px;
+  background-color:beige;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-3{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto3{
+  text-align: center;
+  display: inline-block;
+}
+.text3{
+  width: 300px;
+  text-align: left;
+}
+
+
+.imagen-4{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde4{
+  width: 400px;
+  background-color:blueviolet;
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-4{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto4{
+  text-align: center;
+  display: inline-block;
+}
+.text4{
+  width: 300px;
+  text-align: left;
+}
+
+
+
+.imagen-5{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde5{
+  width: 400px;
+  background-color:rgb(3, 252, 227);
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-5{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto5{
+  text-align: center;
+  display: inline-block;
+}
+.text5{
+  width: 300px;
+  text-align: left;
+}
+
+
+
+.Gif{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde-gif{
+  width: 400px;
+  background-color:rgb(125, 254, 70);
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.Gif1{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto-gif{
+  text-align: center;
+  display: inline-block;
+}
+.text-gif{
+  width: 300px;
+  text-align: left;
+}
+
+
+
+.imagen-6{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde6{
+  width: 400px;
+  background-color:rgba(252, 3, 206, 0.493);
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.foto-6{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto6{
+  text-align: center;
+  display: inline-block;
+}
+.text6{
+  width: 300px;
+  text-align: left;
+}
+
+
+
+.Vid{
+  text-align: center;
+  padding-top: 20px;
+}
+.borde-vid{
+  width: 400px;
+  background-color:rgb(90, 174, 244);
+  display: inline-block;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+.video1{
+  margin-top: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+}
+.texto-vid{
+  text-align: center;
+  display: inline-block;
+}
+.text-vid{
+  width: 300px;
+  text-align: left;
+}
+
+
